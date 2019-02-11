@@ -1,0 +1,16 @@
+C:\Users\akclark\source\repos\AtbashHelpers\AtbashHelpers\obj\Debug\AtbashHelpers.csprojAssemblyReference.cache
+C:\Users\akclark\source\repos\AtbashHelpers\AtbashHelpers\obj\Debug\AtbashHelpers.csproj.CoreCompileInputs.cache
+C:\Users\akclark\source\repos\AtbashHelpers\obj\Debug\AtbashHelpers.csprojAssemblyReference.cache
+C:\Users\akclark\source\repos\AtbashHelpers\obj\Debug\AtbashHelpers.csproj.CoreCompileInputs.cache
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\AtbashHelpers.dll
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\AtbashHelpers.pdb
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\Newtonsoft.Json.dll
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\System.Security.AccessControl.dll
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\System.Security.Permissions.dll
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\akclark\source\repos\AtbashHelpers\bin\Debug\Newtonsoft.Json.xml
+C:\Users\akclark\source\repos\AtbashHelpers\obj\Debug\AtbashHelpers.csproj.CopyComplete
+C:\Users\akclark\source\repos\AtbashHelpers\obj\Debug\AtbashHelpers.dll
+C:\Users\akclark\source\repos\AtbashHelpers\obj\Debug\AtbashHelpers.pdb
